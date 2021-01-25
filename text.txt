@@ -1,0 +1,32 @@
+
+1. Aside Navbar
+
+-logo
+
+Nav
+
+-icon (fa fa-home) font Awesome Icon    Home
+-icon (fa fa-user) font Awesome Icon    About
+-icon (fa fa-list) font Awesome Icon    Service
+-icon (fa fa-briefcase) font Awesome Icon    Portfolio
+-icon (fa fa-envelop) font Awesome Icon    Blog
+-icon (fa fa-comments) font Awesome Icon    Contact
+1. Home Section
+
+-Photo
+-Jannatul Ferdous
+-I'm a font-end Web developer(beginer level)
+
+
+  Social Links
+
+- icon (fa fa-facebook) font Awesome Icon
+- icon (fa fa-linkedin) font Awesome Icon
+- icon (fa fa-instagram) font Awesome Icon
+- icon (fa fa-GitHub) font Awesome Icon
+
+2. About me
+
+-I'm Jannatul Ferdous
+-I'm a front-end web developer(beginer level). i'm very passionate and dedicated to my work. I 
+enjoy every step of the design process , from discussion and collaboration. 
